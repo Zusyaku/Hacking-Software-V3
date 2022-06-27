@@ -1,0 +1,9 @@
+Username: 	paypal@skyexchange.com.pk
+Password: 	9k4kp*7D.xhY
+Incoming Server: 	mail.skyexchange.com.pk
+
+    IMAP Port: 993 POP3 Port: 995 
+
+Outgoing Server: 	mail.skyexchange.com.pk
+
+    SMTP Port: 465 
